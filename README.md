@@ -1,5 +1,25 @@
-# co9cb4283977b0f7302b230ec
+# Add-to-cart
 
+
+what I learnt
+  -import
+  -Firebase:initializeApp
+  -Firebase:getDatabase
+  -Firebase:Reference
+  -Firebase:Push
+  -Firebase:Onvalue
+  -Firebase:Snapshot
+  -ID's
+  -Firebase:remove
+  -Object --> Arrays
+  -createElement
+  -Flexbox:flex-wrap
+  -user-select
+  -setting the viewport
+  -Favicon (to make icons and all)
+  -Web Applicaion Manifest
+  
+  
 Quick start:
 
 ```
